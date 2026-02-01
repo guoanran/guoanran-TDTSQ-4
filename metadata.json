@@ -1,0 +1,7 @@
+{
+  "name": "TDT0114-22-shenqing",
+  "description": "A high-end satellite imagery and spatial data resource management platform with interactive 3D globe visualization and comprehensive filtering capabilities.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
